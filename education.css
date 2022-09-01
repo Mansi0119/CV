@@ -1,0 +1,14 @@
+h1{
+    color:rgb(1, 18, 18);
+    background-color: brown;
+    padding:10px;
+    font-size:xx-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: double;
+}
+section{
+    color:black;;
+    font-size: x-large;
+    font-family: fantasy;
+    text-decoration: solid;
+}
